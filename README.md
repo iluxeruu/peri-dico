@@ -1,2 +1,2 @@
-# peri-dico
+# periodico
 Periódico escolar digital.
